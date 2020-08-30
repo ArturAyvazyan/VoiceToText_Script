@@ -9,8 +9,8 @@ import psycopg2
 from tinkoff_voicekit_client import ClientSTT
 
 #Подключаемся к тинькоф библиотеке
-API_KEY = "ZU4KjCJojHDcIc93vuFeobqyh35t0F1jP8KTDTbhkwo=TestCandidate"
-SECRET_KEY = "L1+iWOCHtxbLftTsAf1jyfKFm1bYwE86i3cT/t+IczE="
+API_KEY = "Введите свой ключ"
+SECRET_KEY = "Введите свой ключ"
 
 client = ClientSTT(API_KEY, SECRET_KEY)
 
