@@ -7,7 +7,7 @@ This script:
 4. Add text and more info to PostgreSQL
 
 Just do:
-.pip install requirements.txt
+pip install requirements.txt
 Enjoy :)
 
 Всем привет,
